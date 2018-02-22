@@ -1,0 +1,14 @@
+c:\users\i.mctavish\documents\visual studio 2015\Projects\canvasImage\canvasImage\bin\Debug\canvasImage.exe.config
+c:\users\i.mctavish\documents\visual studio 2015\Projects\canvasImage\canvasImage\bin\Debug\canvasImage.exe
+c:\users\i.mctavish\documents\visual studio 2015\Projects\canvasImage\canvasImage\bin\Debug\canvasImage.pdb
+c:\users\i.mctavish\documents\visual studio 2015\Projects\canvasImage\canvasImage\obj\Debug\canvasImage.csprojResolveAssemblyReference.cache
+c:\users\i.mctavish\documents\visual studio 2015\Projects\canvasImage\canvasImage\obj\Debug\MainWindow.g.cs
+c:\users\i.mctavish\documents\visual studio 2015\Projects\canvasImage\canvasImage\obj\Debug\App.g.cs
+c:\users\i.mctavish\documents\visual studio 2015\Projects\canvasImage\canvasImage\obj\Debug\canvasImage_MarkupCompile.cache
+c:\users\i.mctavish\documents\visual studio 2015\Projects\canvasImage\canvasImage\obj\Debug\canvasImage_MarkupCompile.lref
+c:\users\i.mctavish\documents\visual studio 2015\Projects\canvasImage\canvasImage\obj\Debug\MainWindow.baml
+c:\users\i.mctavish\documents\visual studio 2015\Projects\canvasImage\canvasImage\obj\Debug\canvasImage.g.resources
+c:\users\i.mctavish\documents\visual studio 2015\Projects\canvasImage\canvasImage\obj\Debug\canvasImage.Properties.Resources.resources
+c:\users\i.mctavish\documents\visual studio 2015\Projects\canvasImage\canvasImage\obj\Debug\canvasImage.csproj.GenerateResource.Cache
+c:\users\i.mctavish\documents\visual studio 2015\Projects\canvasImage\canvasImage\obj\Debug\canvasImage.exe
+c:\users\i.mctavish\documents\visual studio 2015\Projects\canvasImage\canvasImage\obj\Debug\canvasImage.pdb
