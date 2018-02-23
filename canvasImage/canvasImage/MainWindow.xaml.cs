@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -51,7 +51,27 @@ namespace canvasImage
             Canvas.SetTop(r, t);
             l += 20;
             t += 20;
-            
+
+
+            //get pixel
+            int stride = bi.PixelWidth * 4;
+            int size = bi.PixelHeight * stride;
+            byte[] pixels = new byte[size];
+            bi.CopyPixels(pixels, stride, 0);
+
+
+
+            int x = 799;
+            int y = 0;
+            int index = y * stride + 4 * x;
+
+
+            byte blue = pixels[index];
+            byte green = pixels[index + 1];
+            byte red = pixels[index + 2];
+            byte alpha = pixels[index + 3];
+            MessageBox.Show(red.ToString() + ", " + green.ToString() + ", " + blue.ToString());
+
         }
     }
 }
